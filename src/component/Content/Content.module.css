@@ -1,0 +1,17 @@
+#bioContainer {
+  position: fixed;
+}
+
+#portoContainer {
+  margin-inline: auto 0;
+}
+
+@media screen and (max-width: 999px) {
+  #bioContainer {
+    position: relative;
+  }
+
+  #portoContainer {
+    margin: 0;
+  }
+}

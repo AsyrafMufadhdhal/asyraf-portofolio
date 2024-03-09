@@ -1,0 +1,17 @@
+#medsos {
+  padding: 0.5rem;
+  display: flex;
+  gap: 0 1rem;
+  align-items: center;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
+#medsos:hover {
+  border-radius: 5px;
+  background-color: ghostwhite;
+}
+
+#medsosName {
+  color: #181717;
+}

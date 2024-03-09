@@ -1,0 +1,25 @@
+.picked {
+  border: 2px solid #181717;
+  padding: 0.2rem;
+  border-radius: 5px;
+}
+
+.picBox {
+  width: 7svw;
+  height: 9svh;
+  margin-right: 1rem;
+}
+
+.cliked {
+  padding: 0.3rem;
+  border: 1px solid red;
+}
+
+.picBox img {
+  max-height: 7svh;
+}
+
+.mainPicBox {
+  height: 20rem;
+  overflow: hidden;
+}
