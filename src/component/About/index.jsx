@@ -6,7 +6,7 @@ const About = ({ bioData }) => {
       <h4 className="desc">&#128512; About Me</h4>
       <hr />
       <p className="m-0 text-body" id={styles.aboutContent}>
-        <small>{bioData.about}</small>
+        {bioData.about}
       </p>
     </div>
   );
